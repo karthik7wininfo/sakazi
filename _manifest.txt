@@ -1,0 +1,70 @@
+Source : https://sakazuki.io/#tabi
+Date   : 2026-10-14T08:07:36.782Z
+Pages  : 15
+Assets : 45
+OK     : 62
+Failed : 0
+
+--- PAGES ---
+https://sakazuki.io/#tabi
+https://sakazuki.io/mypage
+https://sakazuki.io/
+https://sakazuki.io/#philosophy
+https://sakazuki.io/#collective
+https://sakazuki.io/#benefits
+https://sakazuki.io/#founder
+https://sakazuki.io/#faq
+https://sakazuki.io/#sake
+https://sakazuki.io/mint/asitflows
+https://sakazuki.io/products?filter=TABI
+https://sakazuki.io/products?filter=SAKE
+https://sakazuki.io/products
+https://sakazuki.io/privacy
+https://sakazuki.io/terms-of-use
+
+--- ASSETS ---
+https://sakazuki.io/_next/static/chunks/3a159afcb68c572c.css?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/f9d77ad76ec0f5a2.css?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/0f46d11c8a06d848.css?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/e22b90cf374c3818.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/f42f5f04977fe255.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/d02a04fe6c85570a.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/b4b253bdd4d4d911.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/79d1fd3fa7f24b40.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/7884d3077429b366.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/turbopack-ba716d26fdca007d.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/3b751558fa6de840.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/89af5168719f6dfa.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/45347dca212b8141.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/d6b656f0a4b23da6.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/a36db084ffa3ca01.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/16761de9d417602c.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/222ef8a280c78aa8.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/4fa454de1669e45f.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/5657d864ef29d1e6.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/f3fab376f854e77b.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/469efd00650cb98d.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/810d6bee1347e07f.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/b81d62fcee12ab22.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/e662a0e07f499a67.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/18e8266e435eb6a4.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/d96012bcfc98706a.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/56be238619a20149.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/9e80aaa07d4729bb.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/2bb506fe02b02270.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/dc4c4dd4e31a8bdc.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/452436739327d677.css?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/cdf56f08c20ec747.css?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/ddaa8d5da7976aed.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/70442e1cc6f4ece4.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/5eb28a6d1d7e1761.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/fb61d0a7ef267e9b.css?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/a6dad97d9634a72d.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://use.typekit.net/kjx0ubx.css
+https://sakazuki.io/_next/static/chunks/20b5c4edc8d81a5c.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/9ff4e325a5677783.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/446dcb4f72639649.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/c798207299b8a7ec.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/d85494fc7076e33d.js?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/84d8909be5e0bb83.css?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
+https://sakazuki.io/_next/static/chunks/1580eedf3f962fcb.css?dpl=dpl_GpC31rFL1PykoqmvwThVkMVgZfB6
